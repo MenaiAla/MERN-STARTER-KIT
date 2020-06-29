@@ -1,23 +1,25 @@
-# A Laravel Like frameWork for Full stack js
+# A Laravel Like frameWork for Full Stack js
 
-## description : 
+## Description : 
 
-this is a framework for doing full stack javascript that is inspired from laravel because who does not love laravel xD 
-i know you do.
-so in this framework you find a full set-up for every thing a fullstack developer will need like : 
-  * routing 
-  * spa with `React` 
-  * ssr with `Next`
-  * backend server `Node & Express`
-  * state management using `Redux`
-  * relational and non-relational database `Mysql, Postgres , Mongodb , Firebase`
+This is a framework for doing full stack JavaScript that is inspired by Laravel because who does not love laravel xD. 
+I know you do.
+
+So in this framework you find a full set-up for every thing a fullstack developer will need like : 
+  * Routing 
+  * SPA with `React` 
+  * SSR with `Next`
+  * Backend server `Node & Express`
+  * State management using `Redux`
+  * Relational and non-relational database `Mysql, Postgres , Mongodb , Firebase`
   * Caching with `Redis`
-  * validation 
-  * docker file
+  * Validation 
+  * Docker file
   * tests with jest
   * OAuth with passport
 
 ## how to get started :
+
  * `git clone <https://github.com/larbibaraka/laridev-mern-boilerplate.git>` 
  * cd `laridev-mern-boilerplate`
  * run `npm install` or `yarn`
